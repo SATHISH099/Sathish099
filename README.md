@@ -1,27 +1,89 @@
 <h1 align="center">Hi 👋, I'm Sathesh</h1>
+
 <h3 align="center">Full + Stack Dev🌐</h3>
 
+<div align="center">
+ <!-- <img src="divider1.png" alt="divider"/> -->
+ <hr />
+</div> 
 
+<h3 align="center"  style="margin-top: 100px;  margin-bottom: 100px;"><img src="code.gif" height="20"/> Tech & Tools</h3>
 
-- 🌱 I’m currently learning **Nuxt 3 with node Js**
+<div align="center" style="witdh:100%"> 
+  <table>
+    <tr>
+      <td valign="center" width="100px"><b>Frontend<b></td>
+      <td valign="center" width="100px"><b>Backend<b></td>
+      <td valign="center" width="100px"><b>Dev<b></td>
+    </tr>
+    <tr>
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/HTML-blue" /> 
+        <img src="https://img.shields.io/badge/CSS-blue" />
+        <img src="https://img.shields.io/badge/JavaScript-blue" /> 
+        <img src="https://img.shields.io/badge/TypeScript-blue" />
+        <img src="https://img.shields.io/badge/Vue-blue" /> 
+        <img src="https://img.shields.io/badge/Tailwind-blue" /> 
+        <img src="https://img.shields.io/badge/Nuxt-blue" /> 
+      </td>      
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/Node.js-blue" /> 
+        <img src="https://img.shields.io/badge/Express-blue" />
+      </td>
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/Docker-blue" />
+      </td>
+    </tr>
+  </table>
+  
+ <table>
+    <tr>
+      <td valign="center" width="100px"><b>Design<b></td>
+      <td valign="center" width="100px"><b>Upcoming...<b></td>
+    </tr>
+    <tr>
+    <td valign="center" align="center" width="300px">
+       <img src="https://img.shields.io/badge/Figma-blue" /> 
+      </td>
+      <td valign="center" align="center" width="300px">
+         <img src="https://img.shields.io/badge/Nest.js-green" />
+         <img src="https://img.shields.io/badge/PostgreSQL-green" />  
+      </td> 
+      <!-- 
+        <img src="https://img.shields.io/badge/CI/CD-blue" />
+        <img src="https://img.shields.io/badge/Cypress-blue" />        
+        <img src="https://img.shields.io/badge/Python-blue" /> 
+        <img src="https://img.shields.io/badge/PHP-blue" /> 
+        <img src="https://img.shields.io/badge/Three.js-blue" />
+        <img src="https://img.shields.io/badge/MongoDB-blue" />
+        <img src="https://img.shields.io/badge/Web3.js-blue" /> 
+        <img src="https://img.shields.io/badge/Flask-blue" /> 
+        <img src="https://img.shields.io/badge/WebGL-blue" />
+        <img src="https://img.shields.io/badge/Golang-blue" /> 
+        <img src="https://img.shields.io/badge/Rust-blue" /> 
+        <img src="https://img.shields.io/badge/NoSQL-blue" /> 
+     -->
+    </tr>
+  </table>
+</div>
 
-- ⚡ Fun fact **Scripter as beginner**
+ <div align="center">
+ <!-- <img src="divider1.png" alt="divider"/> -->
+  <hr />
+</div> 
 
-- Just ▶️⏯️ with me up here 🌐
+ <!-- <p align="center">
+  <a href="mailto:naruhitokaide@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://join.skype.com/invite/wDpwy4t21eVg" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/naruhitokaide" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://naruhito-kaide.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
+  
+</p> -->
 
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><br>
- <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>  <br>
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><br>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><br> 
-  <a href="https://nuxt.com/" target="_blank" rel="noreferrer"> <img src="https://preview.redd.it/2ssi8ft315b71.png?auto=webp&s=0fbae78f60d85a7c1a1ca510cdc2baaf0852dd9d" alt="nuxtjs" width="40" height="40"/> </a> <br>
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@sathish_099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sathish_099" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sathish-p-2030561bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sathish-p-2030561bb" height="30" width="40" /></a>
-
-<a href="https://discord.gg/Sathish099#4034" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sathish099#4034" height="30" width="40" /></a>
+<h2 align="center"> Thanks for visiting my profile. </h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
