@@ -3,7 +3,6 @@
 <h3 align="center">Full + Stack Dev🌐</h3>
 
 <div align="center">
- <!-- <img src="divider1.png" alt="divider"/> -->
  <hr />
 </div> 
 
@@ -49,40 +48,13 @@
          <img src="https://img.shields.io/badge/Nest.js-green" />
          <img src="https://img.shields.io/badge/PostgreSQL-green" />  
       </td> 
-      <!-- 
-        <img src="https://img.shields.io/badge/CI/CD-blue" />
-        <img src="https://img.shields.io/badge/Cypress-blue" />        
-        <img src="https://img.shields.io/badge/Python-blue" /> 
-        <img src="https://img.shields.io/badge/PHP-blue" /> 
-        <img src="https://img.shields.io/badge/Three.js-blue" />
-        <img src="https://img.shields.io/badge/MongoDB-blue" />
-        <img src="https://img.shields.io/badge/Web3.js-blue" /> 
-        <img src="https://img.shields.io/badge/Flask-blue" /> 
-        <img src="https://img.shields.io/badge/WebGL-blue" />
-        <img src="https://img.shields.io/badge/Golang-blue" /> 
-        <img src="https://img.shields.io/badge/Rust-blue" /> 
-        <img src="https://img.shields.io/badge/NoSQL-blue" /> 
-     -->
     </tr>
   </table>
 </div>
 
  <div align="center">
- <!-- <img src="divider1.png" alt="divider"/> -->
   <hr />
 </div> 
-
- <!-- <p align="center">
-  <a href="mailto:naruhitokaide@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/wDpwy4t21eVg" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/naruhitokaide" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://naruhito-kaide.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
-  
-</p> -->
-
 <h2 align="center"> Thanks for visiting my profile. </h2>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
