@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sathesh</h1>
 
-<h3 align="center">Full + Stack Dev🌐</h3>
+<h3 align="center">FullStack Dev🌐</h3>
 
 <div align="center">
  <hr />
