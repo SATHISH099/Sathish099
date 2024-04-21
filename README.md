@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sathesh</h1>
+<h1 align="center">Hi 👋, I'm Sathish</h1>
 
 <h3 align="center">FullStack Dev🌐</h3>
 
@@ -28,6 +28,7 @@
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/Node.js-blue" /> 
         <img src="https://img.shields.io/badge/Express-blue" />
+       <img src="https://img.shields.io/badge/Nest.js-green" />
       </td>
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/Docker-blue" />
@@ -45,7 +46,6 @@
        <img src="https://img.shields.io/badge/Figma-blue" /> 
       </td>
       <td valign="center" align="center" width="300px">
-         <img src="https://img.shields.io/badge/Nest.js-green" />
          <img src="https://img.shields.io/badge/PostgreSQL-green" />  
       </td> 
     </tr>
